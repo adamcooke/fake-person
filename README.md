@@ -26,4 +26,15 @@ person.name(:formal_with_first)   #=> "Mr Alexander Smith"
 
 # Gender
 person.gender                     #=> :male (or :female)
+
+# Date of birth
+person.date_of_birth              #=> #<Date: 1954-10-12>
+person.age                        #=> 37
+
+# Usernames
+person.username                   #=> "alexsmith" (various styles exist)
+
+# E-Mail Addresses
+person.email_address              #=> "alexsmith@example.com"
+person.free_email_address         #=> "alexsmith@gmail.com" (or various other free providers)
 ```

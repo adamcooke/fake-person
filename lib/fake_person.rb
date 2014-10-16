@@ -1,3 +1,6 @@
 require 'fake_person/names'
 require 'fake_person/gender'
 require 'fake_person/titles'
+require 'fake_person/username'
+require 'fake_person/date_of_birth'
+require 'fake_person/email'
