@@ -4,7 +4,11 @@ This is a gem which will generate a "person" object for a completely make up hum
 
 ## Installation
 
-Just add `fake_person` to your Gemfile.
+Just put the following in your Gemfile and run `bundle`.
+
+```ruby
+gem "fake_person", "~> 1.0"
+```
 
 ## Usage
 
