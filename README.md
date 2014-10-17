@@ -42,3 +42,7 @@ person.username                   #=> "alexsmith" (various styles exist)
 person.email_address              #=> "alexsmith@example.com"
 person.free_email_address         #=> "alexsmith@gmail.com" (or various other free providers)
 ```
+
+## Why not Faker?
+
+Faker is great and everything but the data it generates can be a little strange. This library uses some of the most popular given & surnames in the US & UK.
