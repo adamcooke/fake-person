@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name          = "fake-person"
+  s.name          = "fake_person"
   s.description   = %q{A Ruby library for creating fake personalities}
   s.summary       = s.description
   s.homepage      = "https://github.com/adamcooke/fake-person"
