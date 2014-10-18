@@ -54,6 +54,9 @@ person.dislikes(2)                #=> ['Kitesurfing', 'Coffee']
 
 # Colour
 person.favorite_color             #=> "Purple"
+
+# Avatars
+person.avatar_url                 #=> "https://s3-eu-west-1.amazonaws.com/fakepeople/male/256/57.png"
 ```
 
 ## Why not Faker?
