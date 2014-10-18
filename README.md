@@ -41,6 +41,16 @@ person.username                   #=> "alexsmith" (various styles exist)
 # E-Mail Addresses
 person.email_address              #=> "alexsmith@example.com"
 person.free_email_address         #=> "alexsmith@gmail.com" (or various other free providers)
+
+# Activities
+person.favourite_activity         #=> "Figure skating"
+
+# Foods
+person.favourite_food             #=> "Pizza"
+
+# Likes/Dislikes
+person.likes(3)                   #=> ['Driving', 'Fish fingers', 'Jogging']
+person.dislikes(2)                #=> ['Kitesurfing', 'Coffee']
 ```
 
 ## Why not Faker?
