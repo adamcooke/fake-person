@@ -1,0 +1,12 @@
+red
+blue
+pink
+purple
+mauve
+yellow
+orange
+red
+turquoise
+black
+white
+gray

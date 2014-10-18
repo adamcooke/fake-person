@@ -51,6 +51,9 @@ person.favourite_food             #=> "Pizza"
 # Likes/Dislikes
 person.likes(3)                   #=> ['Driving', 'Fish fingers', 'Jogging']
 person.dislikes(2)                #=> ['Kitesurfing', 'Coffee']
+
+# Colour
+person.favorite_color             #=> "Purple"
 ```
 
 ## Why not Faker?
