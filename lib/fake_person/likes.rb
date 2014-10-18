@@ -3,11 +3,11 @@ class FakePerson
   def likes(count=3)
     @likes ||= begin
       if count == 1
-        [favourite_activity]
+        [favorite_activity]
       elsif count == 2
-        [favourite_activity, favourite_food]
+        [favorite_activity, favorite_food]
       else
-        [favourite_activity, favourite_food] + activities_and_foods(count - 2, @dislikes)
+        [favorite_activity, favorite_food] + activities_and_foods(count - 2, @dislikes)
       end
     end
   end

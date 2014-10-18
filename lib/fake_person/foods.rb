@@ -1,7 +1,7 @@
 class FakePerson
 
-  def favourite_food
-    @favourite_food ||= self.class.foods.sample
+  def favorite_food
+    @favorite_food ||= self.class.foods.sample
   end
 
   def self.foods

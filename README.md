@@ -43,10 +43,10 @@ person.email_address              #=> "alexsmith@example.com"
 person.free_email_address         #=> "alexsmith@gmail.com" (or various other free providers)
 
 # Activities
-person.favourite_activity         #=> "Figure skating"
+person.favorite_activity         #=> "Figure skating"
 
 # Foods
-person.favourite_food             #=> "Pizza"
+person.favorite_food             #=> "Pizza"
 
 # Likes/Dislikes
 person.likes(3)                   #=> ['Driving', 'Fish fingers', 'Jogging']

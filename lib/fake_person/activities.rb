@@ -1,7 +1,7 @@
 class FakePerson
 
-  def favourite_activity
-    @favourite_activity ||= self.class.activities.sample
+  def favorite_activity
+    @favorite_activity ||= self.class.activities.sample
   end
 
   def self.activities
