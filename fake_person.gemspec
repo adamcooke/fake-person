@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.summary       = s.description
   s.homepage      = "https://github.com/adamcooke/fake-person"
   s.licenses      = ['MIT']
-  s.version       = "1.0.1"
+  s.version       = "1.0.2"
   s.files         = Dir.glob("{lib,db}/**/*")
   s.require_paths = ["lib"]
   s.authors       = ["Adam Cooke"]
