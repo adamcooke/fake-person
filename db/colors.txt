@@ -7,6 +7,4 @@ yellow
 orange
 red
 turquoise
-black
-white
-gray
+beige

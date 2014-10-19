@@ -16,14 +16,14 @@ ariana
 ava
 bella
 brooke
-calire
+claire
 caroline
 catherine
 charlotte
 chloe
 clara
 edith
-elearnor
+eleanor
 elise
 elizabeth
 elizabeth
@@ -76,6 +76,6 @@ stephanie
 vanessa
 vicky
 victoria
-violey
+violet
 zoe
 zoey
